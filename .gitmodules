@@ -1,0 +1,704 @@
+[submodule "github.com/fluent-ci-templates/chromatic-pipeline"]
+	path = github.com/fluent-ci-templates/chromatic-pipeline
+	url = https://github.com/fluent-ci-templates/chromatic-pipeline
+	active = true
+[submodule "github.com/fluent-ci-templates/atlas-pipeline"]
+	path = github.com/fluent-ci-templates/atlas-pipeline
+	url = https://github.com/fluent-ci-templates/atlas-pipeline
+	active = true
+[submodule "github.com/fluent-ci-templates/github-pipeline"]
+	path = github.com/fluent-ci-templates/github-pipeline
+	url = https://github.com/fluent-ci-templates/github-pipeline
+	active = true
+[submodule "github.com/fluent-ci-templates/cloudflare-pipeline"]
+	path = github.com/fluent-ci-templates/cloudflare-pipeline
+	url = https://github.com/fluent-ci-templates/cloudflare-pipeline
+	active = true
+[submodule "github.com/fluent-ci-templates/prisma-pipeline"]
+	path = github.com/fluent-ci-templates/prisma-pipeline
+	url = https://github.com/fluent-ci-templates/prisma-pipeline
+	active = true
+[submodule "github.com/fluent-ci-templates/snyk-pipeline"]
+	path = github.com/fluent-ci-templates/snyk-pipeline
+	url = https://github.com/fluent-ci-templates/snyk-pipeline
+	active = true
+[submodule "github.com/fluent-ci-templates/spin-pipeline"]
+	path = github.com/fluent-ci-templates/spin-pipeline
+	url = https://github.com/fluent-ci-templates/spin-pipeline
+	active = true
+[submodule "github.com/fluent-ci-templates/sonar-pipeline"]
+	path = github.com/fluent-ci-templates/sonar-pipeline
+	url = https://github.com/fluent-ci-templates/sonar-pipeline
+	active = true
+[submodule "github.com/fluent-ci-templates/gitlab-pipeline"]
+	path = github.com/fluent-ci-templates/gitlab-pipeline
+	url = https://github.com/fluent-ci-templates/gitlab-pipeline
+	active = true
+[submodule "github.com/fluent-ci-templates/wasmer-pipeline"]
+	path = github.com/fluent-ci-templates/wasmer-pipeline
+	url = https://github.com/fluent-ci-templates/wasmer-pipeline
+	active = true
+[submodule "github.com/fluent-ci-templates/shuttle-pipeline"]
+	path = github.com/fluent-ci-templates/shuttle-pipeline
+	url = https://github.com/fluent-ci-templates/shuttle-pipeline
+	active = true
+[submodule "github.com/fluent-ci-templates/firebase-pipeline"]
+	path = github.com/fluent-ci-templates/firebase-pipeline
+	url = https://github.com/fluent-ci-templates/firebase-pipeline
+	active = true
+[submodule "github.com/grouville/daggerverse/cargo"]
+	path = github.com/grouville/daggerverse/cargo
+	url = https://github.com/grouville/daggerverse
+	active = true
+[submodule "github.com/fluent-ci-templates/gitleaks-pipeline"]
+	path = github.com/fluent-ci-templates/gitleaks-pipeline
+	url = https://github.com/fluent-ci-templates/gitleaks-pipeline
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/pkgx"]
+	path = github.com/tsirysndr/daggerverse/pkgx
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/flox"]
+	path = github.com/tsirysndr/daggerverse/flox
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/vito/daggerverse/docker"]
+	path = github.com/vito/daggerverse/docker
+	url = https://github.com/vito/daggerverse
+	active = true
+[submodule "github.com/vito/daggerverse/testcontainers"]
+	path = github.com/vito/daggerverse/testcontainers
+	url = https://github.com/vito/daggerverse
+	active = true
+[submodule "github.com/vito/kpenfound-dagger-modules/proxy"]
+	path = github.com/vito/kpenfound-dagger-modules/proxy
+	url = https://github.com/vito/kpenfound-dagger-modules
+	active = true
+[submodule "github.com/cirocosta/daggerverse/golangci-lint"]
+	path = github.com/cirocosta/daggerverse/golangci-lint
+	url = https://github.com/cirocosta/daggerverse
+	active = true
+[submodule "github.com/aweris/gale/daggerverse/gha/actions/hello-world-javascript-action"]
+	path = github.com/aweris/gale/daggerverse/gha/actions/hello-world-javascript-action
+	url = https://github.com/aweris/gale
+	active = true
+[submodule "github.com/aweris/gale/daggerverse/gha/trufflesecurity/trufflehog"]
+	path = github.com/aweris/gale/daggerverse/gha/trufflesecurity/trufflehog
+	url = https://github.com/aweris/gale
+	active = true
+[submodule "github.com/aweris/gale/daggerverse/gha/aquasecurity/trivy-action"]
+	path = github.com/aweris/gale/daggerverse/gha/aquasecurity/trivy-action
+	url = https://github.com/aweris/gale
+	active = true
+[submodule "github.com/wingyplus/daggerverse/compose"]
+	path = github.com/wingyplus/daggerverse/compose
+	url = https://github.com/wingyplus/daggerverse
+	active = true
+[submodule "github.com/matipan/daggerverse/pulumi"]
+	path = github.com/matipan/daggerverse/pulumi
+	url = https://github.com/matipan/daggerverse
+	active = true
+[submodule "github.com/aweris/gale/daggerverse/actions/runtime"]
+	path = github.com/aweris/gale/daggerverse/actions/runtime
+	url = https://github.com/aweris/gale
+	active = true
+[submodule "github.com/slimtoolkit/daggerverse/slim"]
+	path = github.com/slimtoolkit/daggerverse/slim
+	url = https://github.com/slimtoolkit/daggerverse
+	active = true
+[submodule "github.com/slimtoolkit/daggerverse/slim-with-docker"]
+	path = github.com/slimtoolkit/daggerverse/slim-with-docker
+	url = https://github.com/slimtoolkit/daggerverse
+	active = true
+[submodule "github.com/aweris/gale/daggerverse/repo"]
+	path = github.com/aweris/gale/daggerverse/repo
+	url = https://github.com/aweris/gale
+	active = true
+[submodule "github.com/aweris/gale/daggerverse/gale"]
+	path = github.com/aweris/gale/daggerverse/gale
+	url = https://github.com/aweris/gale
+	active = true
+[submodule "github.com/aweris/gale/daggerverse/source"]
+	path = github.com/aweris/gale/daggerverse/source
+	url = https://github.com/aweris/gale
+	active = true
+[submodule "github.com/quartz-technology/daggerverse/minio"]
+	path = github.com/quartz-technology/daggerverse/minio
+	url = https://github.com/quartz-technology/daggerverse
+	active = true
+[submodule "github.com/sipsma/daggerverse/apk"]
+	path = github.com/sipsma/daggerverse/apk
+	url = https://github.com/sipsma/daggerverse
+	active = true
+[submodule "github.com/shykes/daggerverse/slim"]
+	path = github.com/shykes/daggerverse/slim
+	url = https://github.com/shykes/daggerverse
+	active = true
+[submodule "github.com/kpenfound/dagger-modules/dockerd"]
+	path = github.com/kpenfound/dagger-modules/dockerd
+	url = https://github.com/kpenfound/dagger-modules
+	active = true
+[submodule "github.com/quartz-technology/daggerverse/dagger"]
+	path = github.com/quartz-technology/daggerverse/dagger
+	url = https://github.com/quartz-technology/daggerverse
+	active = true
+[submodule "github.com/kpenfound/testcontainers-java-repro/module/testcontainers"]
+	path = github.com/kpenfound/testcontainers-java-repro/module/testcontainers
+	url = https://github.com/kpenfound/testcontainers-java-repro
+	active = true
+[submodule "github.com/kpenfound/dagger-modules/foo"]
+	path = github.com/kpenfound/dagger-modules/foo
+	url = https://github.com/kpenfound/dagger-modules
+	active = true
+[submodule "github.com/quartz-technology/daggerverse/postgres"]
+	path = github.com/quartz-technology/daggerverse/postgres
+	url = https://github.com/quartz-technology/daggerverse
+	active = true
+[submodule "github.com/ibuildthecloud/daggerverse/amlsdk"]
+	path = github.com/ibuildthecloud/daggerverse/amlsdk
+	url = https://github.com/ibuildthecloud/daggerverse
+	active = true
+[submodule "github.com/shykes/daggerverse/containers"]
+	path = github.com/shykes/daggerverse/containers
+	url = https://github.com/shykes/daggerverse
+	active = true
+[submodule "github.com/ibuildthecloud/daggerverse/hello"]
+	path = github.com/ibuildthecloud/daggerverse/hello
+	url = https://github.com/ibuildthecloud/daggerverse
+	active = true
+[submodule "github.com/shykes/daggerverse/docker-compose"]
+	path = github.com/shykes/daggerverse/docker-compose
+	url = https://github.com/shykes/daggerverse
+	active = true
+[submodule "github.com/gerhard/daggerverse/flyio"]
+	path = github.com/gerhard/daggerverse/flyio
+	url = https://github.com/gerhard/daggerverse
+	active = true
+[submodule "github.com/marcosnils/daggerverse/videostitch"]
+	path = github.com/marcosnils/daggerverse/videostitch
+	url = https://github.com/marcosnils/daggerverse
+	active = true
+[submodule "github.com/sipsma/daggerverse/yamlinvaders"]
+	path = github.com/sipsma/daggerverse/yamlinvaders
+	url = https://github.com/sipsma/daggerverse
+	active = true
+[submodule "github.com/sipsma/daggerverse/example"]
+	path = github.com/sipsma/daggerverse/example
+	url = https://github.com/sipsma/daggerverse
+	active = true
+[submodule "github.com/jedevc/daggerverse/hugo/github"]
+	path = github.com/jedevc/daggerverse/hugo/github
+	url = https://github.com/jedevc/daggerverse
+	active = true
+[submodule "github.com/jedevc/daggerverse/hugo"]
+	path = github.com/jedevc/daggerverse/hugo
+	url = https://github.com/jedevc/daggerverse
+	active = true
+[submodule "github.com/quartz-technology/daggerverse/golangci-lint"]
+	path = github.com/quartz-technology/daggerverse/golangci-lint
+	url = https://github.com/quartz-technology/daggerverse
+	active = true
+[submodule "github.com/shykes/daggerverse/tmate"]
+	path = github.com/shykes/daggerverse/tmate
+	url = https://github.com/shykes/daggerverse
+	active = true
+[submodule "github.com/aweris/daggerverse/docker"]
+	path = github.com/aweris/daggerverse/docker
+	url = https://github.com/aweris/daggerverse
+	active = true
+[submodule "github.com/sipsma/daggerverse/testpublish"]
+	path = github.com/sipsma/daggerverse/testpublish
+	url = https://github.com/sipsma/daggerverse
+	active = true
+[submodule "github.com/shykes/daggerverse/ttlsh"]
+	path = github.com/shykes/daggerverse/ttlsh
+	url = https://github.com/shykes/daggerverse
+	active = true
+[submodule "github.com/sipsma/quartz-technology-daggerverse/node"]
+	path = github.com/sipsma/quartz-technology-daggerverse/node
+	url = https://github.com/sipsma/quartz-technology-daggerverse
+	active = true
+[submodule "github.com/helderco/daggerverse/python"]
+	path = github.com/helderco/daggerverse/python
+	url = https://github.com/helderco/daggerverse
+	active = true
+[submodule "github.com/slumbering/daggerverse/nextjs-build"]
+	path = github.com/slumbering/daggerverse/nextjs-build
+	url = https://github.com/slumbering/daggerverse
+	active = true
+[submodule "github.com/shykes/daggerverse/wolfi"]
+	path = github.com/shykes/daggerverse/wolfi
+	url = https://github.com/shykes/daggerverse
+	active = true
+[submodule "github.com/kpenfound/dagger-modules/netlify"]
+	path = github.com/kpenfound/dagger-modules/netlify
+	url = https://github.com/kpenfound/dagger-modules
+	active = true
+[submodule "github.com/kpenfound/dagger-modules/vault"]
+	path = github.com/kpenfound/dagger-modules/vault
+	url = https://github.com/kpenfound/dagger-modules
+	active = true
+[submodule "github.com/kpenfound/dagger-modules/fly"]
+	path = github.com/kpenfound/dagger-modules/fly
+	url = https://github.com/kpenfound/dagger-modules
+	active = true
+[submodule "github.com/kpenfound/dagger-modules/encircle"]
+	path = github.com/kpenfound/dagger-modules/encircle
+	url = https://github.com/kpenfound/dagger-modules
+	active = true
+[submodule "github.com/jpadams/daggerverse/trivy"]
+	path = github.com/jpadams/daggerverse/trivy
+	url = https://github.com/jpadams/daggerverse
+	active = true
+[submodule "github.com/aweris/daggerverse/kind"]
+	path = github.com/aweris/daggerverse/kind
+	url = https://github.com/aweris/daggerverse
+	active = true
+[submodule "github.com/shykes/daggerverse/imagemagick"]
+	path = github.com/shykes/daggerverse/imagemagick
+	url = https://github.com/shykes/daggerverse
+	active = true
+[submodule "github.com/kpenfound/dagger-modules/proxy"]
+	path = github.com/kpenfound/dagger-modules/proxy
+	url = https://github.com/kpenfound/dagger-modules
+	active = true
+[submodule "github.com/vito/daggerverse/apko"]
+	path = github.com/vito/daggerverse/apko
+	url = https://github.com/vito/daggerverse
+	active = true
+[submodule "github.com/vito/daggerverse/moddesc"]
+	path = github.com/vito/daggerverse/moddesc
+	url = https://github.com/vito/daggerverse
+	active = true
+[submodule "github.com/jpadams/daggerverse/mariadb"]
+	path = github.com/jpadams/daggerverse/mariadb
+	url = https://github.com/jpadams/daggerverse
+	active = true
+[submodule "github.com/jpadams/daggerverse/drupalTest"]
+	path = github.com/jpadams/daggerverse/drupalTest
+	url = https://github.com/jpadams/daggerverse
+	active = true
+[submodule "github.com/jpadams/daggerverse/drupal"]
+	path = github.com/jpadams/daggerverse/drupal
+	url = https://github.com/jpadams/daggerverse
+	active = true
+[submodule "github.com/jpadams/daggerverse/goVersion"]
+	path = github.com/jpadams/daggerverse/goVersion
+	url = https://github.com/jpadams/daggerverse
+	active = true
+[submodule "github.com/jpadams/daggerverse/helloSecret"]
+	path = github.com/jpadams/daggerverse/helloSecret
+	url = https://github.com/jpadams/daggerverse
+	active = true
+[submodule "github.com/jpadams/daggerverse/staticcheck"]
+	path = github.com/jpadams/daggerverse/staticcheck
+	url = https://github.com/jpadams/daggerverse
+	active = true
+[submodule "github.com/vito/daggerverse/concourse"]
+	path = github.com/vito/daggerverse/concourse
+	url = https://github.com/vito/daggerverse
+	active = true
+[submodule "github.com/kpenfound/dagger-modules/golang"]
+	path = github.com/kpenfound/dagger-modules/golang
+	url = https://github.com/kpenfound/dagger-modules
+	active = true
+[submodule "github.com/quartz-technology/daggerverse/golang"]
+	path = github.com/quartz-technology/daggerverse/golang
+	url = https://github.com/quartz-technology/daggerverse
+	active = true
+[submodule "github.com/dagger/dagger/sdk/python/runtime"]
+	path = github.com/dagger/dagger/sdk/python/runtime
+	url = https://github.com/dagger/dagger
+	active = true
+[submodule "github.com/quartz-technology/daggerverse/redis"]
+	path = github.com/quartz-technology/daggerverse/redis
+	url = https://github.com/quartz-technology/daggerverse
+	active = true
+[submodule "github.com/quartz-technology/daggerverse/node"]
+	path = github.com/quartz-technology/daggerverse/node
+	url = https://github.com/quartz-technology/daggerverse
+	active = true
+[submodule "github.com/jcsirot/daggerverse/java"]
+	path = github.com/jcsirot/daggerverse/java
+	url = https://github.com/jcsirot/daggerverse
+	active = true
+[submodule "github.com/aweris/daggerverse/helm"]
+	path = github.com/aweris/daggerverse/helm
+	url = https://github.com/aweris/daggerverse
+	active = true
+[submodule "github.com/aweris/daggerverse/kubectl"]
+	path = github.com/aweris/daggerverse/kubectl
+	url = https://github.com/aweris/daggerverse
+	active = true
+[submodule "github.com/TomChv/daggerverse/node"]
+	path = github.com/TomChv/daggerverse/node
+	url = https://github.com/TomChv/daggerverse
+	active = true
+[submodule "github.com/levlaz/daggerverse/get-ip"]
+	path = github.com/levlaz/daggerverse/get-ip
+	url = https://github.com/levlaz/daggerverse
+	active = true
+[submodule "github.com/aweris/daggerverse/gale"]
+	path = github.com/aweris/daggerverse/gale
+	url = https://github.com/aweris/daggerverse
+	active = true
+[submodule "github.com/kpenfound/dagger-modules/secretsmanager"]
+	path = github.com/kpenfound/dagger-modules/secretsmanager
+	url = https://github.com/kpenfound/dagger-modules
+	active = true
+[submodule "github.com/shykes/dagger/zenith/vito-mod"]
+	path = github.com/shykes/dagger/zenith/vito-mod
+	url = https://github.com/shykes/dagger
+	active = true
+[submodule "github.com/aweris/daggerverse/gh"]
+	path = github.com/aweris/daggerverse/gh
+	url = https://github.com/aweris/daggerverse
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/nix"]
+	path = github.com/tsirysndr/daggerverse/nix
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/rtx"]
+	path = github.com/tsirysndr/daggerverse/rtx
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/devenv"]
+	path = github.com/tsirysndr/daggerverse/devenv
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/fluent-ci-templates/trivy-pipeline"]
+	path = github.com/fluent-ci-templates/trivy-pipeline
+	url = https://github.com/fluent-ci-templates/trivy-pipeline
+	active = true
+[submodule "github.com/fluent-ci-templates/grype-pipeline"]
+	path = github.com/fluent-ci-templates/grype-pipeline
+	url = https://github.com/fluent-ci-templates/grype-pipeline
+	active = true
+[submodule "github.com/fluent-ci-templates/syft-pipeline"]
+	path = github.com/fluent-ci-templates/syft-pipeline
+	url = https://github.com/fluent-ci-templates/syft-pipeline
+	active = true
+[submodule "github.com/fluent-ci-templates/buf-pipeline"]
+	path = github.com/fluent-ci-templates/buf-pipeline
+	url = https://github.com/fluent-ci-templates/buf-pipeline
+	active = true
+[submodule "github.com/fluent-ci-templates/bazel-pipeline"]
+	path = github.com/fluent-ci-templates/bazel-pipeline
+	url = https://github.com/fluent-ci-templates/bazel-pipeline
+	active = true
+[submodule "github.com/fluent-ci-templates/elixir-pipeline"]
+	path = github.com/fluent-ci-templates/elixir-pipeline
+	url = https://github.com/fluent-ci-templates/elixir-pipeline
+	active = true
+[submodule "github.com/fluent-ci-templates/drizzlekit-pipeline"]
+	path = github.com/fluent-ci-templates/drizzlekit-pipeline
+	url = https://github.com/fluent-ci-templates/drizzlekit-pipeline
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/devbox"]
+	path = github.com/tsirysndr/daggerverse/devbox
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/matipan/daggerverse/gradle"]
+	path = github.com/matipan/daggerverse/gradle
+	url = https://github.com/matipan/daggerverse
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/black"]
+	path = github.com/tsirysndr/daggerverse/black
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/ansible-lint"]
+	path = github.com/tsirysndr/daggerverse/ansible-lint
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/kubeval"]
+	path = github.com/tsirysndr/daggerverse/kubeval
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/jsonlint"]
+	path = github.com/tsirysndr/daggerverse/jsonlint
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/yamllint"]
+	path = github.com/tsirysndr/daggerverse/yamllint
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/checkmake"]
+	path = github.com/tsirysndr/daggerverse/checkmake
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/phpcbf"]
+	path = github.com/tsirysndr/daggerverse/phpcbf
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/phpcs"]
+	path = github.com/tsirysndr/daggerverse/phpcs
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/php-cs-fixer"]
+	path = github.com/tsirysndr/daggerverse/php-cs-fixer
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/golint"]
+	path = github.com/tsirysndr/daggerverse/golint
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/gofmt"]
+	path = github.com/tsirysndr/daggerverse/gofmt
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/terraform-docs"]
+	path = github.com/tsirysndr/daggerverse/terraform-docs
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/fluent-ci-templates/android-pipeline"]
+	path = github.com/fluent-ci-templates/android-pipeline
+	url = https://github.com/fluent-ci-templates/android-pipeline
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/ansible"]
+	path = github.com/tsirysndr/daggerverse/ansible
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/awesome-ci"]
+	path = github.com/tsirysndr/daggerverse/awesome-ci
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/fluent-ci-templates/flutter-pipeline"]
+	path = github.com/fluent-ci-templates/flutter-pipeline
+	url = https://github.com/fluent-ci-templates/flutter-pipeline
+	active = true
+[submodule "github.com/vito/daggerverse/nix"]
+	path = github.com/vito/daggerverse/nix
+	url = https://github.com/vito/daggerverse
+	active = true
+[submodule "github.com/vito/daggerverse/go"]
+	path = github.com/vito/daggerverse/go
+	url = https://github.com/vito/daggerverse
+	active = true
+[submodule "github.com/depot/daggerverse/depot"]
+	path = github.com/depot/daggerverse/depot
+	url = https://github.com/depot/daggerverse
+	active = true
+[submodule "github.com/levlaz/daggerverse/launchdarkly"]
+	path = github.com/levlaz/daggerverse/launchdarkly
+	url = https://github.com/levlaz/daggerverse
+	active = true
+[submodule "github.com/levlaz/daggerverse/nginx"]
+	path = github.com/levlaz/daggerverse/nginx
+	url = https://github.com/levlaz/daggerverse
+	active = true
+[submodule "github.com/quartz-technology/daggerverse/node/go"]
+	path = github.com/quartz-technology/daggerverse/node/go
+	url = https://github.com/quartz-technology/daggerverse
+	active = true
+[submodule "github.com/helixml/runner"]
+	path = github.com/helixml/runner
+	url = https://github.com/helixml/runner
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/scorecard"]
+	path = github.com/tsirysndr/daggerverse/scorecard
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/shellcheck"]
+	path = github.com/tsirysndr/daggerverse/shellcheck
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/conftest"]
+	path = github.com/tsirysndr/daggerverse/conftest
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/jpadams/daggerverse/infisical"]
+	path = github.com/jpadams/daggerverse/infisical
+	url = https://github.com/jpadams/daggerverse
+	active = true
+[submodule "github.com/KGB33/daggerverse/rust"]
+	path = github.com/KGB33/daggerverse/rust
+	url = https://github.com/KGB33/daggerverse
+	active = true
+[submodule "github.com/shykes/daggerverse/hello"]
+	path = github.com/shykes/daggerverse/hello
+	url = https://github.com/shykes/daggerverse
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/open-policy-agent"]
+	path = github.com/tsirysndr/daggerverse/open-policy-agent
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/jpadams/daggerverse/fossa"]
+	path = github.com/jpadams/daggerverse/fossa
+	url = https://github.com/jpadams/daggerverse
+	active = true
+[submodule "github.com/shykes/daggerverse/supergit"]
+	path = github.com/shykes/daggerverse/supergit
+	url = https://github.com/shykes/daggerverse
+	active = true
+[submodule "github.com/tsirysndr/daggerverse/r2-sync"]
+	path = github.com/tsirysndr/daggerverse/r2-sync
+	url = https://github.com/tsirysndr/daggerverse
+	active = true
+[submodule "github.com/marcosnils/daggerverse/docker"]
+	path = github.com/marcosnils/daggerverse/docker
+	url = https://github.com/marcosnils/daggerverse
+	active = true
+[submodule "github.com/fluent-ci-templates/supabase-pipeline"]
+	path = github.com/fluent-ci-templates/supabase-pipeline
+	url = https://github.com/fluent-ci-templates/supabase-pipeline
+	active = true
+[submodule "github.com/levlaz/daggerverse/vapor"]
+	path = github.com/levlaz/daggerverse/vapor
+	url = https://github.com/levlaz/daggerverse
+	active = true
+[submodule "github.com/vbehar/daggerverse/jfrogcli"]
+	path = github.com/vbehar/daggerverse/jfrogcli
+	url = https://github.com/vbehar/daggerverse
+	active = true
+[submodule "github.com/vbehar/daggerverse/artifactory"]
+	path = github.com/vbehar/daggerverse/artifactory
+	url = https://github.com/vbehar/daggerverse
+	active = true
+[submodule "github.com/puzzle/dagger-module-helm/helm"]
+	path = github.com/puzzle/dagger-module-helm/helm
+	url = https://github.com/puzzle/dagger-module-helm
+	active = true
+[submodule "github.com/jpadams/semgrep-dagger-module"]
+	path = github.com/jpadams/semgrep-dagger-module
+	url = https://github.com/jpadams/semgrep-dagger-module
+	active = true
+[submodule "github.com/kpenfound/dagger-modules/codecov"]
+	path = github.com/kpenfound/dagger-modules/codecov
+	url = https://github.com/kpenfound/dagger-modules
+	active = true
+[submodule "github.com/quartz-technology/daggerverse/node/typescript"]
+	path = github.com/quartz-technology/daggerverse/node/typescript
+	url = https://github.com/quartz-technology/daggerverse
+	active = true
+[submodule "github.com/jpadams/fossa"]
+	path = github.com/jpadams/fossa
+	url = https://github.com/jpadams/fossa
+	active = true
+[submodule "github.com/lukemarsden/dagger-snyk"]
+	path = github.com/lukemarsden/dagger-snyk
+	url = https://github.com/lukemarsden/dagger-snyk
+	active = true
+[submodule "github.com/levlaz/daggerverse/openring"]
+	path = github.com/levlaz/daggerverse/openring
+	url = https://github.com/levlaz/daggerverse
+	active = true
+[submodule "github.com/shykes/daggerverse/tailscale"]
+	path = github.com/shykes/daggerverse/tailscale
+	url = https://github.com/shykes/daggerverse
+	active = true
+[submodule "github.com/grouville/daggerverse/rcodesign"]
+	path = github.com/grouville/daggerverse/rcodesign
+	url = https://github.com/grouville/daggerverse
+	active = true
+[submodule "github.com/nicholasjackson/daggerverse/deb"]
+	path = github.com/nicholasjackson/daggerverse/deb
+	url = https://github.com/nicholasjackson/daggerverse
+	active = true
+[submodule "github.com/BondMachineHQ/BMBuildkit-dagger"]
+	path = github.com/BondMachineHQ/BMBuildkit-dagger
+	url = https://github.com/BondMachineHQ/BMBuildkit-dagger
+	active = true
+[submodule "github.com/BondMachineHQ/BMBuildkit-FPGA"]
+	path = github.com/BondMachineHQ/BMBuildkit-FPGA
+	url = https://github.com/BondMachineHQ/BMBuildkit-FPGA
+	active = true
+[submodule "github.com/lukemarsden/dagger-grype"]
+	path = github.com/lukemarsden/dagger-grype
+	url = https://github.com/lukemarsden/dagger-grype
+	active = true
+[submodule "github.com/jumppad-labs/daggerverse/jumppad"]
+	path = github.com/jumppad-labs/daggerverse/jumppad
+	url = https://github.com/jumppad-labs/daggerverse
+	active = true
+[submodule "github.com/fluent-ci-templates/rust-pipeline"]
+	path = github.com/fluent-ci-templates/rust-pipeline
+	url = https://github.com/fluent-ci-templates/rust-pipeline
+	active = true
+[submodule "github.com/fluent-ci-templates/deno-pipeline"]
+	path = github.com/fluent-ci-templates/deno-pipeline
+	url = https://github.com/fluent-ci-templates/deno-pipeline
+	active = true
+[submodule "github.com/fluent-ci-templates/fastlane-pipeline"]
+	path = github.com/fluent-ci-templates/fastlane-pipeline
+	url = https://github.com/fluent-ci-templates/fastlane-pipeline
+	active = true
+[submodule "github.com/sagikazarmark/daggerverse/arc"]
+	path = github.com/sagikazarmark/daggerverse/arc
+	url = https://github.com/sagikazarmark/daggerverse
+	active = true
+[submodule "github.com/sagikazarmark/daggerverse/archive"]
+	path = github.com/sagikazarmark/daggerverse/archive
+	url = https://github.com/sagikazarmark/daggerverse
+	active = true
+[submodule "github.com/sagikazarmark/daggerverse/bats"]
+	path = github.com/sagikazarmark/daggerverse/bats
+	url = https://github.com/sagikazarmark/daggerverse
+	active = true
+[submodule "github.com/sagikazarmark/daggerverse/archivist"]
+	path = github.com/sagikazarmark/daggerverse/archivist
+	url = https://github.com/sagikazarmark/daggerverse
+	active = true
+[submodule "github.com/sagikazarmark/daggerverse/checksum"]
+	path = github.com/sagikazarmark/daggerverse/checksum
+	url = https://github.com/sagikazarmark/daggerverse
+	active = true
+[submodule "github.com/sagikazarmark/daggerverse/go"]
+	path = github.com/sagikazarmark/daggerverse/go
+	url = https://github.com/sagikazarmark/daggerverse
+	active = true
+[submodule "github.com/sagikazarmark/daggerverse/gh"]
+	path = github.com/sagikazarmark/daggerverse/gh
+	url = https://github.com/sagikazarmark/daggerverse
+	active = true
+[submodule "github.com/sagikazarmark/daggerverse/golangci-lint"]
+	path = github.com/sagikazarmark/daggerverse/golangci-lint
+	url = https://github.com/sagikazarmark/daggerverse
+	active = true
+[submodule "github.com/sagikazarmark/daggerverse/kafka"]
+	path = github.com/sagikazarmark/daggerverse/kafka
+	url = https://github.com/sagikazarmark/daggerverse
+	active = true
+[submodule "github.com/sagikazarmark/daggerverse/spectral"]
+	path = github.com/sagikazarmark/daggerverse/spectral
+	url = https://github.com/sagikazarmark/daggerverse
+	active = true
+[submodule "github.com/sagikazarmark/daggerverse/helm"]
+	path = github.com/sagikazarmark/daggerverse/helm
+	url = https://github.com/sagikazarmark/daggerverse
+	active = true
+[submodule "github.com/sagikazarmark/daggerverse/helm-docs"]
+	path = github.com/sagikazarmark/daggerverse/helm-docs
+	url = https://github.com/sagikazarmark/daggerverse
+	active = true
+[submodule "github.com/sagikazarmark/daggerverse/xk6"]
+	path = github.com/sagikazarmark/daggerverse/xk6
+	url = https://github.com/sagikazarmark/daggerverse
+	active = true
+[submodule "github.com/levlaz/daggerverse/opentofu"]
+	path = github.com/levlaz/daggerverse/opentofu
+	url = https://github.com/levlaz/daggerverse
+	active = true
+[submodule "github.com/levlaz/daggerverse/mariadb"]
+	path = github.com/levlaz/daggerverse/mariadb
+	url = https://github.com/levlaz/daggerverse
+	active = true
+[submodule "github.com/fluent-ci-templates/bun-pipeline"]
+	path = github.com/fluent-ci-templates/bun-pipeline
+	url = https://github.com/fluent-ci-templates/bun-pipeline
+	active = true
+[submodule "github.com/fluent-ci-templates/codecov-pipeline"]
+	path = github.com/fluent-ci-templates/codecov-pipeline
+	url = https://github.com/fluent-ci-templates/codecov-pipeline
+	active = true
+[submodule "github.com/helderco/daggerverse/linguist"]
+	path = github.com/helderco/daggerverse/linguist
+	url = https://github.com/helderco/daggerverse
+	active = true
+[submodule "github.com/samalba/inline-python-mod"]
+	path = github.com/samalba/inline-python-mod
+	url = https://github.com/samalba/inline-python-mod
+	active = true
+[submodule "github.com/shykes/daggerverse/ollama"]
+	path = github.com/shykes/daggerverse/ollama
+	url = https://github.com/shykes/daggerverse
+	active = true
